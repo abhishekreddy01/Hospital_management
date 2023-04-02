@@ -1,0 +1,10 @@
+d:\spring_class\hospital\src\main\java\com\example\hospital\dao\IDocRepo.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\controller\DoctorController.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\service\DoctorService.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\service\PatientService.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\exception\Validation.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\dao\IPatientRepo.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\HospitalApplication.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\model\DoctorModel.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\controller\PatientController.java
+d:\spring_class\hospital\src\main\java\com\example\hospital\model\PatientModel.java
